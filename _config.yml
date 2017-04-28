@@ -1,0 +1,16 @@
+# Site Settings
+title: Simple
+email: miguel@uconn.edu
+description: >
+  Simple Theme
+baseurl: ""
+url: "http://miguelseclen.github.io"
+twitter_username: jekyll
+github_username:  jekyll
+
+# Build Settings
+sass:
+sass_dir: _sass
+include: ['_pages']
+kramdown:
+input: GFM
